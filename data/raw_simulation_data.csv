@@ -1,0 +1,6 @@
+engine_rpm,fuel_air_ratio,coolant_flow_rate,ambient_temp,cylinder_head_temp_celsius
+2000,14.7,1.5,25,185.2
+3500,13.2,2.2,30,210.5
+5000,12.5,3.0,35,245.1
+1500,14.7,1.0,22,160.8
+4000,13.0,2.5,28,225.3
