@@ -32,7 +32,7 @@ By leveraging **Python** automation architectures and **Machine Learning models*
 
 1. Clone this repository structure:
 ```bash
-git clone 
+git clone https://github.com/RAH333/engine-thermal-predictive-ai.git
 cd engine-thermal-predictive-ai
 ```
 
