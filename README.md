@@ -10,12 +10,12 @@ AeroTherm-AI is a data-driven engineering framework designed to predict internal
 
 By leveraging **Python** automation architectures and **Machine Learning models**, this framework bridges traditional 1D/3D CFD solvers and real-time physical testbeds, offering rapid thermal evaluation feedback loops during the early R&D phases.
 
-## Target Relevance (Hero MotoCorp EDD Division)
+## Target Relevance (EDD Division)
 * **Automation-Driven Simulation:** Provides structural script setups built for high-throughput parametric optimization sweeps.
 * **Thermal Analysis Insight:** Focuses directly on predicting critical thermal metrics (Cylinder Head Heat Accumulation) corresponding to variations in Engine RPM, Fuel-Air ratio (AFR), and coolant circulation dynamics.
 * **Production-Grade Engineering:** Features automated data engineering validation loops, decoupled inference logic, and integrated GitHub Action CI tracking workflows.
 
-## 🛠️ Tech Stack & Dependencies
+## Tech Stack & Dependencies
 * **Core Language:** Python 3.10+
 * **Data Processing & Analytics:** NumPy, Pandas
 * **AI & Predictive Modeling:** Scikit-Learn (Random Forest Ensemble Regression Architectures)
